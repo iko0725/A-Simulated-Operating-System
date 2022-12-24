@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/banner">
+        <file>login_banner.png</file>
+        <file>booting_banner.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>bg.png</file>
+        <file>bg_login.png</file>
+        <file>bg_tips.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>login_button.png</file>
+        <file>calculator_button.png</file>
+        <file>calendar_button.png</file>
+        <file>file_button.png</file>
+        <file>editor_button.png</file>
+        <file>account_button.png</file>
+        <file>game_button.png</file>
+        <file>memo_button.png</file>
+        <file>photo_button.png</file>
+        <file>browser_button.png</file>
+        <file>file_button_click.png</file>
+        <file>monitor_button.png</file>
+        <file>media_button.png</file>
+        <file>camera_button.png</file>
+        <file>record_button.png</file>
+        <file>painter_button.png</file>
+    </qresource>
+    <qresource prefix="/cursor">
+        <file>cursor.png</file>
+        <file>cursor_hover.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>general_icon.png</file>
+        <file>load.png</file>
+        <file>battery_10.png</file>
+        <file>battery_80.png</file>
+        <file>battery_30.png</file>
+        <file>battery_100.png</file>
+        <file>orange_new.png</file>
+        <file>l_bracket.png</file>
+        <file>r_bracket.png</file>
+        <file>nowifi_logo.png</file>
+        <file>wifi_logo.png</file>
+    </qresource>
+</RCC>

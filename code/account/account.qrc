@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/user">
+        <file>password.txt</file>
+        <file>username.txt</file>
+    </qresource>
+    <qresource prefix="/admin"/>
+</RCC>

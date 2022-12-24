@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/SE">
+        <file>open.wav</file>
+        <file>mouseclick.mp3</file>
+        <file>mouse.wav</file>
+        <file>video.WMV</file>
+        <file>musicsign.gif</file>
+        <file>music.mp3</file>
+        <file>video.mp4</file>
+    </qresource>
+</RCC>
